@@ -1,0 +1,6 @@
+name: ExplodingChickens
+version: ${project.version}
+main: me.advait.explodingchickens.ExplodingChickens
+api-version: 1.16
+authors: [Advait]
+description: Chickens explode when blocks break.
